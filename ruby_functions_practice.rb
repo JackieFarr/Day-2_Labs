@@ -92,3 +92,7 @@ def number_to_short_month_name(number_months)
     return "Please enter a number between 1 and 12 to get the names of the months"
   end
 end
+
+def volume_of_cube(length)
+  return length**3
+end
